@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Student Assets"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Student Assets"
+	}
+}
